@@ -9,4 +9,6 @@ BookStore App, a simple educational project, to show how to connect to local SQL
 Tutorial playlist on YouTube:
 
 
-![ezgif com-crop_1](https://github.com/omarheaba/BooksStoreWebAPI/assets/77030253/abec7f56-f06f-498b-8d22-8c12517670dd)
+
+![ezgif com-video-to-gif](https://github.com/omarheaba/BooksStoreWebAPI/assets/77030253/ecfe0615-cb4d-4412-ae63-d2f48d27f41b)
+
